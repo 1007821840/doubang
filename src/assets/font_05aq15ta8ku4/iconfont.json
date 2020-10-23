@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1434972",
+      "name": "登录",
+      "font_class": "iconfontwodea-copy-copy",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "2842096",
+      "name": "豆瓣",
+      "font_class": "douban",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "3817914",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "14340887",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e50a",
+      "unicode_decimal": 58634
+    },
+    {
+      "icon_id": "14606606",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "716020",
+      "name": "广播",
+      "font_class": "guangbo",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "2158461",
+      "name": "小组",
+      "font_class": "xiaozu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "3335818",
+      "name": "图书影音",
+      "font_class": "books",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11847473",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "16229938",
+      "name": "首 页",
+      "font_class": "shouye",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    }
+  ]
+}
